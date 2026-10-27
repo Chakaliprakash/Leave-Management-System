@@ -29,7 +29,7 @@ The application source is located in `Leave-managent-system-master/`.
 
 ## Security
 
-Do not commit passwords, API keys, or production credentials. Use environment variables or local configuration for sensitive values.
+Do not commit passwords, API keys, or production credentials.
 
 ## Author
 
