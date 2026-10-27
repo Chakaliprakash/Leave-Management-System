@@ -1,3 +1,19 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:111827,50:1d4ed8,100:60a5fa&text=Leave%20Management%20System&fontColor=ffffff&fontSize=40&fontAlignY=42&desc=Java%20%7C%20Leave%20Workflow%20%7C%20Backend&descAlignY=65&descSize=15" width="100%" alt="Leave Management System banner"/>
+
+![Java](https://img.shields.io/badge/Java-Enabled-334155)
+![Backend](https://img.shields.io/badge/Backend-Project-0f766e)
+![Workflow](https://img.shields.io/badge/Workflow-Built%20with%20care-64748b)
+
+**Employee leave workflow application.**
+
+[Repository](https://github.com/Chakaliprakash/Leave-Management-System) · [Issues](https://github.com/Chakaliprakash/Leave-Management-System/issues)
+
+</div>
+
+---
+
 # Leave Management System
 
 A leave-management application repository for handling employee leave workflows.
