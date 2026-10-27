@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:111827,50:1d4ed8,100:60a5fa&text=Leave%20Management%20System&fontColor=ffffff&fontSize=40&fontAlignY=42&desc=Java%20%7C%20Leave%20Workflow%20%7C%20Backend&descAlignY=65&descSize=15" width="100%" alt="Leave Management System banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=195&color=0:111827,50:1d4ed8,100:60a5fa&text=Leave%20Management&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Employee%20Leave%20Workflow%20Application&descAlignY=64&descSize=15" width="100%" alt="Leave Management banner"/>
 
-![Java](https://img.shields.io/badge/Java-Enabled-334155)
-![Backend](https://img.shields.io/badge/Backend-Project-0f766e)
-![Workflow](https://img.shields.io/badge/Workflow-Built%20with%20care-64748b)
-
-**Employee leave workflow application.**
+![Project](https://img.shields.io/badge/Project-Leave%20Management-2563eb?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Workflow%20Automation-334155?style=for-the-badge)
 
 [Repository](https://github.com/Chakaliprakash/Leave-Management-System) · [Issues](https://github.com/Chakaliprakash/Leave-Management-System/issues)
 
