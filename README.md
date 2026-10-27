@@ -13,24 +13,24 @@
 
 # Leave Management System
 
-A leave-management application repository for handling employee leave workflows.
+A Java application for managing employee leave workflows.
 
-## Project
+## Project Structure
 
-This repository contains the application source under `Leave-managent-system-master/`.
+The application source is located in `Leave-managent-system-master/`.
 
-## Getting started
+## Getting Started
 
-1. Clone the repository.
-2. Open `Leave-managent-system-master/`.
-3. Review the project files and configuration to identify the required Java version, build tool, and database settings.
-4. Configure local database credentials and environment-specific values outside version control.
-5. Follow the build and run instructions defined by the application.
+1. Clone this repository.
+2. Open the project directory.
+3. Review the build configuration and application settings.
+4. Configure the required database connection and environment variables.
+5. Follow the project configuration to build and run the application.
 
 ## Security
 
-Never commit real database passwords, API keys, access tokens, or production configuration. Use environment variables for secrets.
+Do not commit passwords, API keys, or production credentials. Use environment variables or local configuration for sensitive values.
 
-## Repository
+## Author
 
-[View source code](https://github.com/Chakaliprakash/Leave-Management-System)
+[Prakash Chakali](https://github.com/Chakaliprakash)
